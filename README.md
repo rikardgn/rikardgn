@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rikardgn
-- 👀 I’m interested in teaching c and c++ to private indiviudals and employees at primarly open source companies
+- 👀 I’m interested in teaching c and c++ to private citizens and employees at primarly open source companies
 - 🌱 I’m currently learning ...
 Even more about C++
 - 💞️ I’m looking to collaborate on ...
